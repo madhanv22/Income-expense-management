@@ -34,10 +34,10 @@ The Income and Expense Tracker is a simple yet powerful web application built wi
 
 **Installation:**
 1. Clone the Repository:
-   `git clone https://github.com/madhanv263/IncomeExpenseTracker.git`
+   `git clone https://github.com/madhanv22/income-expense-management.git`
 
 2. Navigate to the Project Directory:
-   `cd Income-Expense-Tracker`
+   `cd income-expense-management`
 
 3. Open index.html:
    - Open the `index.html` file in your preferred web browser to start using the tracker.
@@ -58,10 +58,10 @@ The Income and Expense Tracker is a simple yet powerful web application built wi
 ## Contributing
 
 1. Clone the Repository:
-   `git clone https://github.com/madhanv263/Income-Expense-Tracker.git`
+   `git clone https://github.com/madhanv22/income-expense-management.git`
 
 2. Navigate to the Project Directory:
-   `cd Income-Expense-Tracker`
+   `cd income-expense-management`
 
 3. Create a Branch:
    `git checkout -b your-feature-branch`
@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, reach out to the repository owner at [madhanv263@gmail.com](mailto:madhanv263@gmail.com).
+For any questions or feedback, reach out to the repository owner at [madhankumarv40@gmail.com](mailto:madhankumarv40@gmail.com).
 
 ## Acknowledgements
 
